@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Author: Chas Lutterloh
+Date Created: 11/10/2020
+Purpose: An application that creates a to do list where you can add, complete and remove to do items.
+
 ## Available Scripts
 
 In the project directory, you can run:
